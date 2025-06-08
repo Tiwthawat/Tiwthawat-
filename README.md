@@ -5,7 +5,7 @@
   💼 Passionate in Clean UI, Real-time Systems & Cactus Auctions
 </p>
 <p align="center">
-  <img src="your-image.jpg" alt="Tiwthawat's profile photo" width="200" style="border-radius: 100px;" />
+  <img src="2024-04-25 182635.png" alt="Tiwthawat's profile photo" width="200" style="border-radius: 100px;" />
 </p>
 ---
 

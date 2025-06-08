@@ -27,7 +27,7 @@ Real-time auction system for cactus lovers. Built with a focus on performance, r
 ## 🛠 Tech Stack I Use
 | Frontend | Backend | Database | DevOps / Tools |
 |----------|---------|----------|----------------|
-| ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions) |
 | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) |  | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel) |
 |  |  |  | ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white) |
 |  |  |  | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |

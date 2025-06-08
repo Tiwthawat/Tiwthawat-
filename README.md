@@ -18,6 +18,10 @@ Real-time auction system for cactus lovers. Built with a focus on performance, r
 
 🔗 [View on GitHub »](https://github.com/Tiwthawat/project_cactus_final)
 
+- 🌐 RESTful API (User/Auth/Auction/Product)
+- 🧠 แยกฝั่ง User / Admin ชัดเจน
+- ⚙️ Database Query แบบ Raw SQL
+- 🚀 CI/CD ด้วย GitHub Actions + Deploy ผ่าน Vercel
 ---
 
 ## 🛠 Tech Stack I Use

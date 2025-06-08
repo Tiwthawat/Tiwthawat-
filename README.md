@@ -1,6 +1,7 @@
 <h1 align="center">✨ Tiwthawat Somaumchan ✨</h1>
 <p align="center">
   👨‍💻 Computer Engineering Student | Full-Stack Web Developer <br/>
+   @ Kasem Bundit University  
   💼 Passionate in Clean UI, Real-time Systems & Cactus Auctions
 </p>
 

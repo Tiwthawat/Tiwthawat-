@@ -27,7 +27,7 @@ Real-time auction system for cactus lovers. Built with a focus on performance, r
 
 ## 📫 Contact Me
 
-- ✉️ Email: **tiwthawat@example.com**
+- ✉️ Email: **liew8444@gmail.com**
 - 🌐 GitHub: [@Tiwthawat](https://github.com/Tiwthawat)
 
 ---

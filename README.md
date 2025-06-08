@@ -1,33 +1,37 @@
-# 👋 สวัสดีครับ ผมชื่อ Tiwthawat Somaumchan
-
-💻 นักศึกษาวิศวกรรมคอมพิวเตอร์ ผู้ชื่นชอบการพัฒนาเว็บไซต์เต็มรูปแบบ (Full-stack)  
-🌱 สนใจด้าน Web App, UX/UI Design, ระบบประมูล และการจัดการฐานข้อมูลแบบมีประสิทธิภาพ
-
----
-
-## 🚀 Projects I'm Working On
-
-- 🌵 [Cactus Auction Platform](https://github.com/Tiwthawat/project_cactus_final)  
-  ระบบประมูลต้นกระบองเพชรแบบเรียลไทม์  
-  *(Next.js + Express + TypeScript + SQL-based DB)*
-
-- 💬 [AskBoard Q&A System](https://github.com/Tiwthawat/askboard) *(Coming soon)*  
-  ระบบถามตอบสำหรับสินค้าในเว็บ
+<h1 align="center">✨ Tiwthawat Somaumchan ✨</h1>
+<p align="center">
+  👨‍💻 Computer Engineering Student | Full-Stack Web Developer <br/>
+  💼 Passionate in Clean UI, Real-time Systems & Cactus Auctions
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🪴 Projects Highlight
 
-- Frontend: `Next.js`, `React`, `TailwindCSS`
-- Backend: `Express.js`, `TypeScript`, `SQL (MySQL)`
-- Dev Tools: `Git`, `Vercel`, `Docker`, `Postman`
+### 🌵 Cactus Auction Platform  
+> **Next.js + Express + TypeScript + MySQL**
+
+Real-time auction system for cactus lovers. Built with a focus on performance, real-time experience, and intuitive admin control.
+
+🔗 [View on GitHub »](https://github.com/Tiwthawat/project_cactus_final)
+
+---
+
+## 🛠 Tech Stack I Use
+| Frontend | Backend | Database | Tools |
+|----------|---------|----------|-------|
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel) |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) | ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) |
+
 ---
 
 ## 📫 Contact Me
 
-- Email: liew8444@gmail.com
-- GitHub: [github.com/Tiwthawat](https://github.com/Tiwthawat)
+- ✉️ Email: **tiwthawat@example.com**
+- 🌐 GitHub: [@Tiwthawat](https://github.com/Tiwthawat)
 
 ---
 
-> "ความฝันไม่ใช่สิ่งที่ไกลเกินไป ถ้าเราตั้งใจพอ 💡"
+<p align="center">
+  <sub>✨ สร้างสิ่งธรรมดาให้กลายเป็นประสบการณ์ที่น่าจดจำ ✨</sub>
+</p>

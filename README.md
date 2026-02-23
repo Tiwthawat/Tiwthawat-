@@ -3,7 +3,10 @@
 <p align="center">
   Full-Stack Developer | Computer Engineering Student <br/>
   Kasem Bundit University
+</p><p align="center">
+  <img src="your-profile-image.png" width="250" />
 </p>
+
 
 ---
 

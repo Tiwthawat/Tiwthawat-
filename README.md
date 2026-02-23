@@ -1,48 +1,90 @@
-<h1 align="center">✨ Tiwthawat Somaumchan ✨</h1>
-<p align="center">
-  👨‍💻 Computer Engineering Student | Full-Stack Web Developer <br/>
-   @ Kasem Bundit University  
-  💼 Passionate in Clean UI, Real-time Systems & Cactus Auctions
-</p>
-<p align="center">
-  <img src="สกรีนช็อต 2024-04-25 182635.png" alt="Tiwthawat's profile photo" width="350" style="border-radius: 100px;" />
-</p>
----
-
-## 🪴 Projects Highlight
-
-### 🌵 Cactus Auction Platform  
-> **Next.js + Express + TypeScript + MySQL**
-
-Real-time auction system for cactus lovers. Built with a focus on performance, real-time experience, and intuitive admin control.
-
-🔗 [View on GitHub »](https://github.com/Tiwthawat/project_cactus_final)
-
-- 🌐 RESTful API (GET, POST, PUT, DELETE)
-- 🧠 แยกฝั่ง User / Admin ชัดเจน
-- ⚙️ Database Query แบบ Raw SQL
-- 🚀 CI/CD ด้วย GitHub Actions + Deploy ผ่าน Vercel
----
-
-## 🛠 Tech Stack I Use
-| Frontend | Backend | Database | DevOps / Tools |
-|----------|---------|----------|----------------|
-| ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions) |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) |  | ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel) |
-|  |  |  | ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=white) |
-|  |  |  | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-|  |  |  | ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white) |
-
----
----
-
-## 📫 Contact Me
-
-- ✉️ Email: **liew8444@gmail.com**
-- 🌐 GitHub: [@Tiwthawat](https://github.com/Tiwthawat)
-
----
+<h1 align="center">Tiwthawat Somaumchan</h1>
 
 <p align="center">
-  <sub>✨ สร้างสิ่งธรรมดาให้กลายเป็นประสบการณ์ที่น่าจดจำ ✨</sub>
+  Full-Stack Developer | Computer Engineering Student <br/>
+  Kasem Bundit University
 </p>
+
+---
+
+## About Me
+
+Computer Engineering student with hands-on experience building a full-stack auction and e-commerce platform using Next.js, Express, TypeScript, and MySQL. Strong foundation in backend architecture, authentication systems, and business logic implementation.
+
+Interested in scalable backend systems, structured API design, and building real-world production-ready applications.
+
+---
+
+## Featured Project
+
+### Cactus Auction Platform  
+Full-Stack Auction & E-Commerce System  
+Tech: Next.js, Express, TypeScript, MySQL
+
+A production-style web application implementing a complete auction workflow and e-commerce system.
+
+**Key Features**
+
+- JWT Authentication & Role-Based Access Control  
+- Auction bidding system with winner confirmation  
+- Order lifecycle management and status tracking  
+- Payment flow (Bank Transfer & COD)  
+- Admin dashboard with analytics (Daily / Monthly / Yearly reports)  
+- Product management, review system, and forum module  
+- RESTful API design with structured backend architecture  
+- CI/CD using GitHub Actions and deployment via Vercel  
+
+Repository:  
+https://github.com/Tiwthawat/project_cactus_final
+
+---
+
+## Technical Skills
+
+### Languages
+TypeScript  
+JavaScript  
+SQL  
+
+### Frontend
+Next.js  
+React  
+Tailwind CSS  
+MUI  
+
+### Backend
+Node.js  
+Express  
+RESTful API  
+JWT Authentication  
+Middleware Design  
+
+### Database
+MySQL  
+MySQL2  
+
+### Tools & DevOps
+Git  
+GitHub  
+GitHub Actions  
+Docker  
+Vercel  
+Postman  
+VS Code  
+
+---
+
+## Architecture & Concepts
+
+- Relational Database Design  
+- Authentication & Authorization  
+- Business Logic Implementation  
+- API Structure & Routing Design  
+- Admin Analytics & Reporting System  
+
+---
+
+## Contact
+
+Email: tiwthawatS@gmail.com  
+GitHub: https://github.com/Tiwthawat

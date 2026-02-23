@@ -3,9 +3,7 @@
 <p align="center">
   Full-Stack Developer | Computer Engineering Student <br/>
   Kasem Bundit University
-</p><p align="center">
-  <img src="your-profile-image.png" width="250" />
-</p>
+</p><p align="center"> <img src="สกรีนช็อต 2024-04-25 182635.png" alt="Tiwthawat's profile photo" width="350" style="border-radius: 100px;" /> </p>
 
 
 ---
